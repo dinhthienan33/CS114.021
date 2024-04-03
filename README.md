@@ -18,7 +18,9 @@ PGS.TS. Lê Đình Duy | duyld@uit.edu.vn
 Ths. Phạm Nguyễn Trường An | truonganpn@uit.edu.vn
 
 
-### Giới thiệu bản thân:
+### Giới thiệu thành viên nhóm:
 Họ tên | MSSV | Email | GitHub
 --- | --- | -- | --
 Đinh Thiên Ân | 22520010 | 22520010@gm.uit.edu.vn |https://github.com/dinhthienan33h
+Huỳnh Trọng Nghĩa | 22520003 | 22520003@gm.uit.edu.vn
+Nguyễn Đức Anh | 22520053 | 22520053@gm.uit.edu.vn
