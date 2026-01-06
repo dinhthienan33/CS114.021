@@ -22,13 +22,13 @@ MSc. Pham Nguyen Truong An | truonganpn@uit.edu.vn
 Name | Student ID | Email | GitHub
 --- | --- | --- | ---
 Dinh Thien An (Đinh Thiên Ân) | 22520010 | 22520010@gm.uit.edu.vn | [dinhthienan33h](https://github.com/dinhthienan33h)
-Huynh Trong Nghia (Huỳnh Trọng Nghĩa) | 22520003 | 22520003@gm.uit.edu.vn | N/A
-Nguyen Duc Anh (Nguyễn Đức Anh) | 22520053 | 22520053@gm.uit.edu.vn | N/A
+Huynh Trong Nghia (Huỳnh Trọng Nghĩa) | 22520003 | 22520003@gm.uit.edu.vn | Not available
+Nguyen Duc Anh (Nguyễn Đức Anh) | 22520053 | 22520053@gm.uit.edu.vn | Not available
 
 ## Repository Overview
 - `LAB01/`: Introductory lab materials and exercises.
 - `th.ipynb`: Consolidated theory and experimentation notebook used across assignments.
-- CSV files: Multiple training and test splits for checkpoints, labs, and project evaluations.
+- CSV files: Multiple training and test splits (for example `train.csv`, `test_ck.csv`, `train_final*.csv`) for checkpoints, labs, and project evaluations.
 
 ## Getting Started
 1. Ensure you have Python 3.8+ and Jupyter Notebook or JupyterLab installed.
