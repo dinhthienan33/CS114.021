@@ -22,8 +22,8 @@ MSc. Pham Nguyen Truong An | truonganpn@uit.edu.vn
 Name | Student ID | Email | GitHub
 --- | --- | --- | ---
 Đinh Thiên Ân | 22520010 | 22520010@gm.uit.edu.vn | [dinhthienan33h](https://github.com/dinhthienan33h)
-Huỳnh Trọng Nghĩa | 22520003 | 22520003@gm.uit.edu.vn | TBD
-Nguyễn Đức Anh | 22520053 | 22520053@gm.uit.edu.vn | TBD
+Huỳnh Trọng Nghĩa | 22520003 | 22520003@gm.uit.edu.vn | N/A
+Nguyễn Đức Anh | 22520053 | 22520053@gm.uit.edu.vn | N/A
 
 ## Repository Overview
 - `LAB01/`: Introductory lab materials and exercises.
