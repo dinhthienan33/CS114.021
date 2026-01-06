@@ -6,9 +6,9 @@
   </a>
 </p>
 
-# CS114.O21 — Machine Learning
+# CS114.021 — Machine Learning
 
-Course repository for CS114.O21 (Machine Learning) at the University of Information Technology. It contains lab notebooks, project work, and datasets used throughout the course.
+Course repository for CS114.021 (Machine Learning) at the University of Information Technology. It contains lab notebooks, project work, and datasets used throughout the course.
 
 ## Course Staff
 
@@ -21,7 +21,7 @@ MSc. Pham Nguyen Truong An | truonganpn@uit.edu.vn
 
 Name | Student ID | Email | GitHub
 --- | --- | --- | ---
-Dinh Thien An (Đinh Thiên Ân) | 22520010 | 22520010@gm.uit.edu.vn | https://github.com/dinhthienan33
+Dinh Thien An (Đinh Thiên Ân) | 22520010 | 22520010@gm.uit.edu.vn | https://github.com/dinhthienan33h
 Huynh Trong Nghia (Huỳnh Trọng Nghĩa) | 22520003 | 22520003@gm.uit.edu.vn | N/A (pending profile)
 Nguyen Duc Anh (Nguyễn Đức Anh) | 22520053 | 22520053@gm.uit.edu.vn | N/A (pending profile)
 
