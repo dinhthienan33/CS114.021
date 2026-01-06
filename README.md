@@ -28,11 +28,14 @@ Nguyen Duc Anh (Nguyễn Đức Anh) | 22520053 | 22520053@gm.uit.edu.vn | Not a
 ## Repository Overview
 - `LAB01/`: Introductory lab exercises and supporting notebooks.
 - `th.ipynb`: Consolidated theory and experimentation notebook spanning assignments.
-- `*.csv`: Training and evaluation datasets (for example `train.csv`, `test_ck.csv`, `train_final*.csv`) stored in the repository root.
+- `*.csv`: Training and evaluation datasets (for example `train.csv`, `train_final*.csv`, `test_ck.csv`, `train_tbtl2.csv`) stored in the repository root.
 
 ## Getting Started
-1. Ensure you have Python 3.8+ and Jupyter Notebook or JupyterLab installed.
-2. Clone the repository and move into it:
+1. Ensure you have Python 3.8+ and Jupyter Notebook or JupyterLab installed. Install core data-science packages if needed:
+   ```bash
+   pip install numpy pandas scikit-learn matplotlib
+   ```
+2. Clone the canonical repository and move into it:
    ```bash
    git clone https://github.com/dinhthienan33/CS114.021.git
    cd CS114.021
