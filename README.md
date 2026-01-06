@@ -26,14 +26,18 @@ Huynh Trong Nghia (Huỳnh Trọng Nghĩa) | 22520003 | 22520003@gm.uit.edu.vn |
 Nguyen Duc Anh (Nguyễn Đức Anh) | 22520053 | 22520053@gm.uit.edu.vn | Not available
 
 ## Repository Overview
-- `LAB01/`: Introductory lab materials and exercises.
-- `th.ipynb`: Consolidated theory and experimentation notebook used across assignments.
-- CSV files: Multiple training and test splits (for example `train.csv`, `test_ck.csv`, `train_final*.csv`) for checkpoints, labs, and project evaluations.
+- `LAB01/`: Introductory lab exercises and supporting notebooks.
+- `th.ipynb`: Consolidated theory and experimentation notebook spanning assignments.
+- `*.csv`: Training and evaluation datasets (for example `train.csv`, `test_ck.csv`, `train_final*.csv`) stored in the repository root.
 
 ## Getting Started
 1. Ensure you have Python 3.8+ and Jupyter Notebook or JupyterLab installed.
-2. Clone the repository and open the desired notebook (for example `th.ipynb`) in Jupyter.
-3. Place the provided CSV files in the same directory or update notebook paths as needed.
+2. Clone the repository and move into it:
+   ```bash
+   git clone https://github.com/dinhthienan33/CS114.021.git
+   cd CS114.021
+   ```
+3. Launch Jupyter and open the desired notebook (for example `th.ipynb`). The notebooks expect the CSV datasets (such as `train.csv`, `train_final*.csv`, `test_ck.csv`) to remain in the repository root; update paths only if you relocate the files.
 
 ## Notes
 - The datasets are intended for educational purposes within the course.
