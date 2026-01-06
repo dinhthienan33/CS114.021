@@ -22,8 +22,10 @@ MSc. Pham Nguyen Truong An | truonganpn@uit.edu.vn
 Name | Student ID | Email | GitHub
 --- | --- | --- | ---
 Dinh Thien An (Đinh Thiên Ân) | 22520010 | 22520010@gm.uit.edu.vn | [dinhthienan33](https://github.com/dinhthienan33)
-Huynh Trong Nghia (Huỳnh Trọng Nghĩa) | 22520003 | 22520003@gm.uit.edu.vn | N/A
-Nguyen Duc Anh (Nguyễn Đức Anh) | 22520053 | 22520053@gm.uit.edu.vn | N/A
+Huynh Trong Nghia (Huỳnh Trọng Nghĩa) | 22520003 | 22520003@gm.uit.edu.vn | N/A (pending profile)
+Nguyen Duc Anh (Nguyễn Đức Anh) | 22520053 | 22520053@gm.uit.edu.vn | N/A (pending profile)
+
+*GitHub profiles will be added when available; entries marked N/A are pending.*
 
 ## Repository Overview
 - `LAB01/`: Introductory lab exercises and supporting notebooks.
@@ -35,7 +37,7 @@ Nguyen Duc Anh (Nguyễn Đức Anh) | 22520053 | 22520053@gm.uit.edu.vn | N/A
    ```bash
    pip install numpy pandas scikit-learn matplotlib
    ```
-2. Clone the canonical repository (`CS114.021`) and move into it:
+2. Clone the canonical repository (`CS114.021`) or your fork, then move into it:
    ```bash
    git clone https://github.com/dinhthienan33/CS114.021.git
    cd CS114.021
